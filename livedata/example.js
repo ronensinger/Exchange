@@ -2,10 +2,10 @@ var WSS = require('ws').Server;
 
 var mysql      = require('mysql');
 var connection = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : 'th24wlg42sh55t',
-  database : 'Exchange'
+  host     : 'oops',
+  user     : 'oops',
+  password : 'oops',
+  database : 'oops'
 });
 connection.connect();
 
