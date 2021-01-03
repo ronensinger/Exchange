@@ -1,3 +1,5 @@
+Copyright Ronen Singer, All Rights Reserved
+
 # Exchange
 This is the backend for a prototype bitcoin futures exchange I made. The exchange and backend were never completed, but the sample front-end can be found at:
 http://exchange.ronen.io/trade
